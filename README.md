@@ -1,5 +1,6 @@
 # VulnerableSmartContract
 Purposefully Vulnerable Solidity Smart Contract for Educational Purposes
+
 💡 **VulnerableContract: Solidity Smart Contract with Intentional Vulnerabilities** 💻
 
 VulnerableContract is an open-source Solidity smart contract repository designed to provide developers, auditors, and security enthusiasts with a practical learning resource for identifying and understanding common vulnerabilities in smart contracts. 🔒
